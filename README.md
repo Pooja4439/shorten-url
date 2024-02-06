@@ -1,2 +1,1 @@
-# shorten-url
-shorten url in mern technology
+## Full stack MERN project - Easy Link App, url shortener
